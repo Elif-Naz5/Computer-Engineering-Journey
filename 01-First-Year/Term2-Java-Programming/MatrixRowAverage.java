@@ -4,7 +4,7 @@ atanacaktır. Değer atandıktan sonra her bir satırın aritmetik ortalamasın�
 import java.util.Random;
 import java.util.Scanner;
 
-public class diziAritmetikOrtalama {
+public class MatrixRowAverage {
     
     public static void main(String[] args) {
         
