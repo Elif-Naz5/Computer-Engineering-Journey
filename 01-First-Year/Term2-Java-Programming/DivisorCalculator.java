@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tamBolenBulma {
+public class DivisorCalculator {
     public static void main(String[] args) {
 
         Scanner giris= new Scanner(System.in);
