@@ -1,0 +1,30 @@
+1;Elon Musk;M;United States;Tesla, SpaceX;Technology;811227.251
+2;Larry Page;M;United States;Google;Technology;322333.847
+3;Sergey Brin;M;United States;Google;Technology;297223.798
+4;Jeff Bezos;M;United States;Amazon;Technology;271504.436
+5;Larry Ellison;M;United States;Oracle;Technology;240093.132
+6;Mark Zuckerberg;M;United States;Facebook;Technology;210789.705
+7;Jensen Huang;M;United States;Semiconductors;Technology;194501.814
+8;Michael Dell;M;United States;Dell Technologies;Technology;187772.291
+9;Rob Walton & family;M;United States;Walmart;Fashion & Retail;149262.284
+10;Jim Walton & family;M;United States;Walmart;Fashion & Retail;146528.1
+11;Warren Buffett;M;United States;Berkshire Hathaway;Finance & Investments;142843.418
+12;Bernard Arnault & family;M;France;LVMH;Fashion & Retail;142314.133
+13;Alice Walton;F;United States;Walmart;Fashion & Retail;137264.356
+14;Steve Ballmer;M;United States;Microsoft;Technology;133717.497
+15;Amancio Ortega;M;Spain;Zara;Fashion & Retail;129936.292
+16;Carlos Slim Helu & family;M;Mexico;Telecom;Telecom;125164.712
+17;Changpeng Zhao;M;Canada;Cryptocurrency exchange;Finance & Investments;112797.068
+18;Michael Bloomberg;M;United States;Bloomberg LP;Finance & Investments;109419
+19;Bill Gates;M;United States;Microsoft;Technology;102895.465
+20;Thomas Peterffy;M;United States;Discount brokerage;Finance & Investments;100111.971
+21;Mukesh Ambani;M;India;Diversified;Diversified;90447.372
+22;Francoise Bettencourt Meyers & family;F;France;L'Oréal;Fashion & Retail;89942.009
+23;Giancarlo Devasini;M;Italy;Cryptocurrency;Finance & Investments;89300
+24;Gautam Adani;M;India;Infrastructure, commodities;Diversified;81264.364
+25;Julia Koch & family;F;United States;Koch, Inc.;Diversified;81190
+26;Charles Koch & family;M;United States;Koch, Inc.;Diversified;73790
+27;Zhang Yiming;M;China;TikTok;Technology;69300
+28;Masayoshi Son;M;Japan;Telecom, Investments;Finance & Investments;69081.455
+29;Jeff Yass;M;United States;Trading, investments;Finance & Investments;67435
+30;Robin Zeng;M;Hong Kong;Batteries;Energy;65924.633
